@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Crystal Vase
 - [ ] Fountain Pen
-- [ ] Magnifying Glass
+- [X] Magnifying Glass
 
 ## Notes
 Crime location: /houses
