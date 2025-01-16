@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Blacksmith
-- [ ] The Gardener
+- [X] The Gardener
 - [X] The Banker
 
 ## Weapons
