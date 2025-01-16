@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Crystal Vase
-- [ ] Fountain Pen
+- [X] Fountain Pen
 - [X] Magnifying Glass
 
 ## Notes
